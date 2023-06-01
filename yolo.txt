@@ -1,0 +1,431 @@
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221025_090001.jpg
+C1mel_20221025_090001
+['635', '797', '714', '843.']
+C1mel_20221025_090001
+['672', '349', '823', '444.']
+C1mel_20221025_090001
+['704', '478', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221025_091001.jpg
+C1mel_20221025_091001
+['475', '330', '534', '364.']
+C1mel_20221025_091001
+['633', '797', '713', '843.']
+C1mel_20221025_091001
+['673', '352', '822', '444.']
+C1mel_20221025_091001
+['702', '479', '787', '556.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221025_092001.jpg
+C1mel_20221025_092001
+['475', '330', '534', '364.']
+C1mel_20221025_092001
+['633', '797', '713', '843.']
+C1mel_20221025_092001
+['673', '353', '821', '444.']
+C1mel_20221025_092001
+['702', '479', '787', '556.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221025_093001.jpg
+C1mel_20221025_093001
+['272', '545', '348', '629.']
+C1mel_20221025_093001
+['633', '799', '712', '841.']
+C1mel_20221025_093001
+['669', '348', '823', '445.']
+C1mel_20221025_093001
+['702', '479', '788', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221025_094001.jpg
+C1mel_20221025_094001
+['477', '331', '537', '365.']
+C1mel_20221025_094001
+['633', '800', '710', '840.']
+C1mel_20221025_094001
+['673', '347', '823', '446.']
+C1mel_20221025_094001
+['703', '478', '786', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221026_090001.jpg
+C1mel_20221026_090001
+['631', '798', '711', '840.']
+C1mel_20221026_090001
+['670', '351', '823', '445.']
+C1mel_20221026_090001
+['703', '478', '787', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221026_091001.jpg
+C1mel_20221026_091001
+['633', '799', '711', '840.']
+C1mel_20221026_091001
+['673', '352', '825', '446.']
+C1mel_20221026_091001
+['703', '480', '787', '556.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221026_092001.jpg
+C1mel_20221026_092001
+['630', '798', '711', '841.']
+C1mel_20221026_092001
+['668', '350', '825', '446.']
+C1mel_20221026_092001
+['703', '479', '787', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221026_093001.jpg
+C1mel_20221026_093001
+['629', '799', '713', '841.']
+C1mel_20221026_093001
+['668', '350', '825', '446.']
+C1mel_20221026_093001
+['703', '479', '786', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221026_094001.jpg
+C1mel_20221026_094001
+['476', '330', '535', '365.']
+C1mel_20221026_094001
+['632', '800', '710', '841.']
+C1mel_20221026_094001
+['671', '348', '825', '448.']
+C1mel_20221026_094001
+['704', '480', '788', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221027_090001.jpg
+C1mel_20221027_090001
+['633', '800', '711', '840.']
+C1mel_20221027_090001
+['672', '351', '823', '447.']
+C1mel_20221027_090001
+['703', '479', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221027_091001.jpg
+C1mel_20221027_091001
+['632', '800', '711', '840.']
+C1mel_20221027_091001
+['672', '350', '824', '448.']
+C1mel_20221027_091001
+['703', '480', '786', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221027_092001.jpg
+C1mel_20221027_092001
+['632', '799', '711', '839.']
+C1mel_20221027_092001
+['676', '354', '822', '445.']
+C1mel_20221027_092001
+['704', '478', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221027_093001.jpg
+C1mel_20221027_093001
+['273', '546', '352', '628.']
+C1mel_20221027_093001
+['635', '798', '716', '844.']
+C1mel_20221027_093001
+['671', '348', '823', '447.']
+C1mel_20221027_093001
+['704', '479', '786', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221027_094001.jpg
+C1mel_20221027_094001
+['476', '330', '538', '365.']
+C1mel_20221027_094001
+['632', '799', '712', '841.']
+C1mel_20221027_094001
+['670', '352', '822', '445.']
+C1mel_20221027_094001
+['704', '479', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221028_090001.jpg
+C1mel_20221028_090001
+['634', '797', '712', '842.']
+C1mel_20221028_090001
+['672', '352', '822', '446.']
+C1mel_20221028_090001
+['703', '480', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221028_091001.jpg
+C1mel_20221028_091001
+['272', '546', '350', '629.']
+C1mel_20221028_091001
+['634', '798', '708', '843.']
+C1mel_20221028_091001
+['670', '350', '822', '447.']
+C1mel_20221028_091001
+['701', '480', '786', '556.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221028_092001.jpg
+C1mel_20221028_092001
+['274', '545', '351', '628.']
+C1mel_20221028_092001
+['634', '798', '711', '844.']
+C1mel_20221028_092001
+['672', '348', '821', '445.']
+C1mel_20221028_092001
+['702', '478', '785', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221028_093001.jpg
+C1mel_20221028_093001
+['633', '799', '710', '842.']
+C1mel_20221028_093001
+['703', '480', '786', '554.']
+C1mel_20221028_093001
+['672', '351', '822', '447.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221028_094001.jpg
+C1mel_20221028_094001
+['635', '798', '713', '842.']
+C1mel_20221028_094001
+['671', '352', '822', '445.']
+C1mel_20221028_094001
+['703', '479', '788', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221029_090001.jpg
+C1mel_20221029_090001
+['272', '544', '347', '630.']
+C1mel_20221029_090001
+['475', '331', '539', '365.']
+C1mel_20221029_090001
+['631', '799', '710', '841.']
+C1mel_20221029_090001
+['672', '349', '822', '445.']
+C1mel_20221029_090001
+['702', '479', '785', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221029_091001.jpg
+C1mel_20221029_091001
+['634', '798', '710', '843.']
+C1mel_20221029_091001
+['670', '351', '824', '447.']
+C1mel_20221029_091001
+['703', '480', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221029_092001.jpg
+C1mel_20221029_092001
+['633', '799', '710', '842.']
+C1mel_20221029_092001
+['672', '351', '822', '447.']
+C1mel_20221029_092001
+['703', '480', '786', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221029_093001.jpg
+C1mel_20221029_093001
+['632', '799', '710', '840.']
+C1mel_20221029_093001
+['670', '351', '825', '444.']
+C1mel_20221029_093001
+['703', '479', '786', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221029_094001.jpg
+C1mel_20221029_094001
+['272', '546', '351', '630.']
+C1mel_20221029_094001
+['475', '331', '537', '365.']
+C1mel_20221029_094001
+['631', '797', '711', '840.']
+C1mel_20221029_094001
+['672', '348', '823', '445.']
+C1mel_20221029_094001
+['703', '479', '787', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221030_090001.jpg
+C1mel_20221030_090001
+['476', '330', '538', '365.']
+C1mel_20221030_090001
+['632', '799', '712', '841.']
+C1mel_20221030_090001
+['671', '352', '821', '446.']
+C1mel_20221030_090001
+['703', '479', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221030_091001.jpg
+C1mel_20221030_091001
+['476', '331', '533', '364.']
+C1mel_20221030_091001
+['272', '546', '349', '627.']
+C1mel_20221030_091001
+['635', '798', '713', '842.']
+C1mel_20221030_091001
+['670', '351', '822', '446.']
+C1mel_20221030_091001
+['703', '478', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221030_092001.jpg
+C1mel_20221030_092001
+['270', '545', '349', '633.']
+C1mel_20221030_092001
+['633', '799', '710', '840.']
+C1mel_20221030_092001
+['674', '352', '821', '446.']
+C1mel_20221030_092001
+['703', '479', '786', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221030_093001.jpg
+C1mel_20221030_093001
+['272', '546', '350', '629.']
+C1mel_20221030_093001
+['633', '798', '710', '843.']
+C1mel_20221030_093001
+['671', '348', '824', '447.']
+C1mel_20221030_093001
+['702', '480', '786', '556.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221030_094001.jpg
+C1mel_20221030_094001
+['270', '545', '349', '633.']
+C1mel_20221030_094001
+['633', '799', '710', '840.']
+C1mel_20221030_094001
+['674', '352', '821', '445.']
+C1mel_20221030_094001
+['703', '479', '786', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221031_090001.jpg
+C1mel_20221031_090001
+['632', '799', '709', '840.']
+C1mel_20221031_090001
+['669', '350', '826', '446.']
+C1mel_20221031_090001
+['703', '479', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221031_091001.jpg
+C1mel_20221031_091001
+['475', '331', '537', '365.']
+C1mel_20221031_091001
+['631', '797', '711', '840.']
+C1mel_20221031_091001
+['672', '348', '822', '445.']
+C1mel_20221031_091001
+['703', '479', '787', '554.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221031_092001.jpg
+C1mel_20221031_092001
+['273', '546', '349', '627.']
+C1mel_20221031_092001
+['476', '331', '533', '364.']
+C1mel_20221031_092001
+['635', '798', '712', '842.']
+C1mel_20221031_092001
+['671', '351', '823', '446.']
+C1mel_20221031_092001
+['703', '478', '786', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221031_093001.jpg
+C1mel_20221031_093001
+['475', '329', '536', '364.']
+C1mel_20221031_093001
+['630', '799', '712', '840.']
+C1mel_20221031_093001
+['670', '352', '820', '447.']
+C1mel_20221031_093001
+['704', '479', '788', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success
+Python 3.7.0 required by YOLOv5, but Python 3.6.9 is currently installed
+NAME OF PIC =  C1mel_20221031_094001.jpg
+C1mel_20221031_094001
+['633', '799', '711', '840.']
+C1mel_20221031_094001
+['670', '351', '826', '444.']
+C1mel_20221031_094001
+['703', '479', '787', '555.']
+Original Dimensions :  (1080, 1920, 3)
+Resized Dimensions :  (432, 768, 3)
+yolo Detect Success

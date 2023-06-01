@@ -1,0 +1,2287 @@
+C1mel20220821_144618.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661068029, nanoseconds: 303000000 }
+}
+./1661068029303.jpg uploaded.
+C1mel20220822_090003.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661133783, nanoseconds: 647000000 }
+}
+./1661133783647.jpg uploaded.
+C1mel20220822_091002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661134381, nanoseconds: 706000000 }
+}
+./1661134381706.jpg uploaded.
+C1mel20220822_092002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661134982, nanoseconds: 232000000 }
+}
+./1661134982232.jpg uploaded.
+C1mel20220822_093001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661135582, nanoseconds: 672000000 }
+}
+./1661135582672.jpg uploaded.
+C1mel20220822_094001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661136182, nanoseconds: 464000000 }
+}
+./1661136182464.jpg uploaded.
+C1mel20220823_090001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661220182, nanoseconds: 572000000 }
+}
+./1661220182572.jpg uploaded.
+C1mel20220823_091002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.66',
+  Date: Timestamp { seconds: 1661220782, nanoseconds: 183000000 }
+}
+./1661220782183.jpg uploaded.
+C1mel20220823_092002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.64',
+  Date: Timestamp { seconds: 1661221381, nanoseconds: 721000000 }
+}
+./1661221381721.jpg uploaded.
+C1mel20220823_093002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661221981, nanoseconds: 824000000 }
+}
+./1661221981824.jpg uploaded.
+C1mel20220823_094002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.59 Downy Mildew 0.57',
+  Date: Timestamp { seconds: 1661222581, nanoseconds: 767000000 }
+}
+./1661222581767.jpg uploaded.
+C1mel20220825_090003.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661392982, nanoseconds: 870000000 }
+}
+./1661392982870.jpg uploaded.
+C1mel20220825_091001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661393582, nanoseconds: 395000000 }
+}
+./1661393582395.jpg uploaded.
+C1mel20220825_092001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661394182, nanoseconds: 529000000 }
+}
+./1661394182529.jpg uploaded.
+C1mel20220825_093001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661394782, nanoseconds: 471000000 }
+}
+./1661394782471.jpg uploaded.
+C1mel20220825_094002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661395381, nanoseconds: 771000000 }
+}
+./1661395381771.jpg uploaded.
+C1mel20220826_090001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661479382, nanoseconds: 294000000 }
+}
+./1661479382294.jpg uploaded.
+C1mel20220826_091001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661479982, nanoseconds: 655000000 }
+}
+./1661479982655.jpg uploaded.
+C1mel20220827_090002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661565783, nanoseconds: 160000000 }
+}
+./1661565783160.jpg uploaded.
+C1mel20220827_091002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661566382, nanoseconds: 9000000 }
+}
+./1661566382009.jpg uploaded.
+C1mel20220827_092002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661566982, nanoseconds: 134000000 }
+}
+./1661566982133.jpg uploaded.
+C1mel20220827_093002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661567582, nanoseconds: 127000000 }
+}
+./1661567582127.jpg uploaded.
+C1mel20220827_094002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661568182, nanoseconds: 195000000 }
+}
+./1661568182195.jpg uploaded.
+C1mel20220828_090003.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661652182, nanoseconds: 667000000 }
+}
+./1661652182667.jpg uploaded.
+C1mel20220828_091001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661652782, nanoseconds: 611000000 }
+}
+./1661652782611.jpg uploaded.
+C1mel20220828_092002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661653381, nanoseconds: 848000000 }
+}
+./1661653381848.jpg uploaded.
+C1mel20220828_093002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661653981, nanoseconds: 809000000 }
+}
+./1661653981809.jpg uploaded.
+C1mel20220828_094002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661654582, nanoseconds: 92000000 }
+}
+./1661654582092.jpg uploaded.
+C1mel20220831_132804.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661927363, nanoseconds: 22000000 }
+}
+./1661927363022.jpg uploaded.
+C1mel20220831_133128.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661927540, nanoseconds: 849000000 }
+}
+./1661927540849.jpg uploaded.
+C1mel20220901_090003.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661997783, nanoseconds: 479000000 }
+}
+./1661997783479.jpg uploaded.
+C1mel20220901_091001.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661998382, nanoseconds: 603000000 }
+}
+./1661998382603.jpg uploaded.
+C1mel20220901_092002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1661998981, nanoseconds: 782000000 }
+}
+./1661998981782.jpg uploaded.
+C1mel20220901_094002.jpg
+
+File Renamed
+
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Date: Timestamp { seconds: 1662000182, nanoseconds: 515000000 }
+}
+./1662000182515.jpg uploaded.
+166777888999.jpg
+
+File Renamed
+
+./1662018630863.jpg uploaded to Melon-img/cam1-1662018630863.jpg
+Melon-img/cam1-1662018630863.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.99,',
+  Bounding_box: '99, 99, 99, 99,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662018630863.jpg?alt=media&token=9d72ca1f-b91e-4e8c-9fda-d0a8aca2615d',
+  Date: Timestamp { seconds: 1662018782, nanoseconds: 451000000 }
+}
+2uploaddb.mjs
+Bounding_box.txt
+Confidence_value.txt
+node_modules
+2uploaddb.mjs
+2uploadimg.mjs
+Bounding_box.txt
+C1mel20220814_090002.jpg
+C1IMG_20220222_090120_jpg.jpg
+
+File Renamed
+
+./1662023379113.jpg uploaded to Melon-img/cam1-1662023379113.jpg
+Melon-img/cam1-1662023379113.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.90 Downy Mildew 0.88 Downy Mildew 0.84',
+  Bounding_box: '118 347 137 365. ,54 236 86 253. ,209 320 232 337. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662023379113.jpg?alt=media&token=58480cbd-4796-4baf-9a89-812a8e89d321',
+  Date: Timestamp { seconds: 1662023405, nanoseconds: 234000000 }
+}
+Bounding_box.txt
+
+File Renamed
+
+./1662023490291.jpg uploaded to Melon-img/cam1-1662023490291.jpg
+C1IMG_20220222_090232_jpg.jpg
+
+File Renamed
+
+./1662023569018.jpg uploaded to Melon-img/cam1-1662023569018.jpg
+Melon-img/cam1-1662023569018.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.81 Downy Mildew 0.80',
+  Bounding_box: '101 134 114 145. ,353 5 416 36. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662023569018.jpg?alt=media&token=6e86103e-df83-4aa5-8e81-b60518c1c757',
+  Date: Timestamp { seconds: 1662023590, nanoseconds: 510000000 }
+}
+C1IMG_20220222_090245_jpg.jpg
+
+File Renamed
+
+./1662023689197.jpg uploaded to Melon-img/cam1-1662023689197.jpg
+Melon-img/cam1-1662023689197.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.92 Downy Mildew 0.87 Downy Mildew 0.69 Downy Mildew 0.56',
+  Bounding_box: '86 125 108 135. ,32 242 64 266. ,253 188 346 252. ,230 284 271 316. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662023689197.jpg?alt=media&token=a0c450ba-5f60-44f5-9313-eeb4d23966e0',
+  Date: Timestamp { seconds: 1662023701, nanoseconds: 71000000 }
+}
+C1IMG_20220222_090516_jpg.jpg
+
+File Renamed
+
+./1662033328162.jpg uploaded to Melon-img/cam1-1662033328162.jpg
+Melon-img/cam1-1662033328162.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.95',
+  Bounding_box: '47 103 319 328. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662033328162.jpg?alt=media&token=c4cb0b5a-9a9b-4772-9616-eaefa2cb1cb0',
+  Date: Timestamp { seconds: 1662033337, nanoseconds: 558000000 }
+}
+C1IMG_20220222_090539_jpg.jpg
+
+File Renamed
+
+./1662033439153.jpg uploaded to Melon-img/cam1-1662033439153.jpg
+Melon-img/cam1-1662033439153.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.85',
+  Bounding_box: '296 228 368 253. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662033439153.jpg?alt=media&token=57316c66-c382-4698-b47a-8c5fefad8663',
+  Date: Timestamp { seconds: 1662033447, nanoseconds: 931000000 }
+}
+C1IMG_20220222_090544_jpg.jpg
+
+File Renamed
+
+./1662033545233.jpg uploaded to Melon-img/cam1-1662033545233.jpg
+Melon-img/cam1-1662033545233.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.92',
+  Bounding_box: '28 108 370 385. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662033545233.jpg?alt=media&token=84d7cbc3-9442-491b-acc9-41292d23726e',
+  Date: Timestamp { seconds: 1662033553, nanoseconds: 716000000 }
+}
+C1IMG_20220222_090724_jpg.jpg
+
+File Renamed
+
+./1662036179994.jpg uploaded to Melon-img/cam1-1662036179994.jpg
+Melon-img/cam1-1662036179994.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.88',
+  Bounding_box: '14 103 28 116. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036179994.jpg?alt=media&token=db6baf9b-b16c-4320-8e03-34bbcaebd8fa',
+  Date: Timestamp { seconds: 1662036193, nanoseconds: 183000000 }
+}
+C1IMG_20220222_090732_jpg.jpg
+
+File Renamed
+
+./1662036287438.jpg uploaded to Melon-img/cam1-1662036287438.jpg
+Melon-img/cam1-1662036287438.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.90 Downy Mildew 0.89',
+  Bounding_box: '83 244 122 278. ,369 0 416 98. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036287438.jpg?alt=media&token=127adc19-f577-48c7-821e-fc833f4c6fa6',
+  Date: Timestamp { seconds: 1662036296, nanoseconds: 529000000 }
+}
+C1IMG_20220222_090922_jpg.jpg
+
+File Renamed
+
+./1662036382800.jpg uploaded to Melon-img/cam1-1662036382800.jpg
+Melon-img/cam1-1662036382800.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.69',
+  Bounding_box: '235 165 271 183. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036382800.jpg?alt=media&token=fc48befc-4dc6-40c5-9a0c-4e04af7455d7',
+  Date: Timestamp { seconds: 1662036391, nanoseconds: 587000000 }
+}
+C1IMG_20220222_091027_jpg.jpg
+
+File Renamed
+
+./1662036473286.jpg uploaded to Melon-img/cam1-1662036473286.jpg
+Melon-img/cam1-1662036473286.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.93',
+  Bounding_box: '35 85 358 316. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036473286.jpg?alt=media&token=4f36ab0d-8cd7-482f-83ca-d9e7169a8d97',
+  Date: Timestamp { seconds: 1662036482, nanoseconds: 265000000 }
+}
+C1IMG_20220222_091132_jpg.jpg
+
+File Renamed
+
+./1662036556633.jpg uploaded to Melon-img/cam1-1662036556633.jpg
+Melon-img/cam1-1662036556633.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036556633.jpg?alt=media&token=9d67eef2-9595-415e-abc2-eae9ecf750a9',
+  Date: Timestamp { seconds: 1662036566, nanoseconds: 289000000 }
+}
+C1IMG_20220222_091146_jpg.jpg
+
+File Renamed
+
+./1662036645254.jpg uploaded to Melon-img/cam1-1662036645254.jpg
+Melon-img/cam1-1662036645254.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.96',
+  Bounding_box: '195 90 358 228. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036645254.jpg?alt=media&token=248a2b86-657d-4b76-a149-0430df560168',
+  Date: Timestamp { seconds: 1662036658, nanoseconds: 14000000 }
+}
+C1IMG_20220222_091228_jpg.jpg
+
+File Renamed
+
+./1662036735215.jpg uploaded to Melon-img/cam1-1662036735215.jpg
+Melon-img/cam1-1662036735215.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.80',
+  Bounding_box: '258 268 319 285. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036735215.jpg?alt=media&token=8e7a2aa0-c36f-415d-b3c4-39132d64fa6e',
+  Date: Timestamp { seconds: 1662036745, nanoseconds: 336000000 }
+}
+C1IMG_20220222_091236_jpg.jpg
+
+File Renamed
+
+./1662036824397.jpg uploaded to Melon-img/cam1-1662036824397.jpg
+Melon-img/cam1-1662036824397.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.90 Downy Mildew 0.88',
+  Bounding_box: '196 216 220 240. ,256 298 276 335. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036824397.jpg?alt=media&token=18ba74c8-2caa-49f2-b171-2bc856d5dd5b',
+  Date: Timestamp { seconds: 1662036832, nanoseconds: 900000000 }
+}
+C1IMG_20220222_091248_jpg.jpg
+
+File Renamed
+
+./1662036906938.jpg uploaded to Melon-img/cam1-1662036906938.jpg
+Melon-img/cam1-1662036906938.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.94 Downy Mildew 0.94',
+  Bounding_box: '114 188 173 238. ,295 229 329 276. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662036906938.jpg?alt=media&token=61cda31c-2166-47c8-9e0c-88620d0cd59a',
+  Date: Timestamp { seconds: 1662036916, nanoseconds: 46000000 }
+}
+C1IMG_20220222_091424_jpg.jpg
+
+File Renamed
+
+./1662037002749.jpg uploaded to Melon-img/cam1-1662037002749.jpg
+Melon-img/cam1-1662037002749.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.78 Downy Mildew 0.70 Downy Mildew 0.51',
+  Bounding_box: '64 77 82 91. ,271 154 296 169. ,130 226 180 323. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662037002749.jpg?alt=media&token=1564df41-97c1-4922-b4ec-03fd44c8e885',
+  Date: Timestamp { seconds: 1662037011, nanoseconds: 803000000 }
+}
+C1IMG_20220222_092847_jpg.jpg
+
+File Renamed
+
+./1662037090927.jpg uploaded to Melon-img/cam1-1662037090927.jpg
+Melon-img/cam1-1662037090927.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.95 Downy Mildew 0.94 Powdery Mildew 0.94',
+  Bounding_box: '192 321 287 392. ,49 144 378 326. ,39 240 112 289. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662037090927.jpg?alt=media&token=e76edd83-7055-4ef8-af74-1171e2880a03',
+  Date: Timestamp { seconds: 1662037099, nanoseconds: 778000000 }
+}
+C1IMG_20220222_102511_jpg.jpg
+
+File Renamed
+
+./1662037223283.jpg uploaded to Melon-img/cam1-1662037223283.jpg
+Melon-img/cam1-1662037223283.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.76 Downy Mildew 0.74',
+  Bounding_box: '380 73 416 162. ,0 365 51 415. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662037223283.jpg?alt=media&token=30c5acdc-2b75-42d7-8e88-2fa415ca3ccb',
+  Date: Timestamp { seconds: 1662037232, nanoseconds: 297000000 }
+}
+C1IMG_20220222_103310_jpg.jpg
+
+File Renamed
+
+./1662037306153.jpg uploaded to Melon-img/cam1-1662037306153.jpg
+Melon-img/cam1-1662037306153.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.96 Downy Mildew 0.95 Powdery Mildew 0.92 Powdery Mildew 0.91',
+  Bounding_box: '177 355 258 416. ,40 160 266 295. ,114 206 189 314. ,168 149 256 214. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662037306153.jpg?alt=media&token=809c8fe8-3619-4c19-a087-6f33e8ef5ee3',
+  Date: Timestamp { seconds: 1662037315, nanoseconds: 0 }
+}
+C1IMG_20220222_103326_jpg.jpg
+
+File Renamed
+
+./1662037426604.jpg uploaded to Melon-img/cam1-1662037426604.jpg
+Melon-img/cam1-1662037426604.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.93 Downy Mildew 0.90',
+  Bounding_box: '172 341 213 385. ,64 74 328 288. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662037426604.jpg?alt=media&token=a179c340-06a7-43ac-8063-aae7a5ff747f',
+  Date: Timestamp { seconds: 1662037450, nanoseconds: 174000000 }
+}
+Confidence_value.txt
+
+File Renamed
+
+./1662084122824.jpg uploaded to Melon-img/cam1-1662084122824.jpg
+Confidence_value.txt
+
+File Renamed
+
+./1662084722143.jpg uploaded to Melon-img/cam1-1662084722143.jpg
+package-lock.json
+
+File Renamed
+
+./1662085322308.jpg uploaded to Melon-img/cam1-1662085322308.jpg
+Confidence_value.txt
+
+File Renamed
+
+./1662085922365.jpg uploaded to Melon-img/cam1-1662085922365.jpg
+Confidence_value.txt
+
+File Renamed
+
+./1662086522067.jpg uploaded to Melon-img/cam1-1662086522067.jpg
+C1IMG_20220222_090120_jpg.jpg
+
+File Renamed
+
+./1662107096887.jpg uploaded to Melon-img/cam1-1662107096887.jpg
+Melon-img/cam1-1662107096887.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.90 Downy Mildew 0.88 Downy Mildew 0.84',
+  Bounding_box: '118 347 137 365. ,54 236 86 253. ,209 320 232 337. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662107096887.jpg?alt=media&token=f1ec6242-0b94-44e1-a002-c5a1b8b2eefc',
+  Date: Timestamp { seconds: 1662107117, nanoseconds: 396000000 }
+}
+C1mel20220902_153020.jpg
+
+File Renamed
+
+./1662107876407.jpg uploaded to Melon-img/cam1-1662107876407.jpg
+Melon-img/cam1-1662107876407.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.91 Downy Mildew 0.80 Downy Mildew 0.79 Powdery Mildew 0.79 Downy Mildew 0.67',
+  Bounding_box: '2671 2105 2795 2198. ,1347 2027 1557 2178. ,28 1551 2166 3363. ,1168 3209 1320 3345. ,1653 2023 2209 2405. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662107876407.jpg?alt=media&token=dde9cdca-871c-436b-ae00-232f50d446a8',
+  Date: Timestamp { seconds: 1662107896, nanoseconds: 409000000 }
+}
+C1mel20220903_090003.jpg
+
+File Renamed
+
+./1662170522850.jpg uploaded to Melon-img/cam1-1662170522850.jpg
+Melon-img/cam1-1662170522850.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662170522850.jpg?alt=media&token=1373484f-10ec-4e98-be09-5b78329840ab',
+  Date: Timestamp { seconds: 1662170644, nanoseconds: 389000000 }
+}
+C1mel20220903_091002.jpg
+
+File Renamed
+
+./1662171122579.jpg uploaded to Melon-img/cam1-1662171122579.jpg
+Melon-img/cam1-1662171122579.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662171122579.jpg?alt=media&token=8ab62487-113e-4a76-a844-13a0c076c7f5',
+  Date: Timestamp { seconds: 1662171244, nanoseconds: 552000000 }
+}
+C1mel20220903_092002.jpg
+
+File Renamed
+
+./1662171722963.jpg uploaded to Melon-img/cam1-1662171722963.jpg
+Melon-img/cam1-1662171722963.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662171722963.jpg?alt=media&token=7cefaa4c-be41-4740-981c-61545d987878',
+  Date: Timestamp { seconds: 1662171844, nanoseconds: 584000000 }
+}
+C1mel20220903_093002.jpg
+
+File Renamed
+
+./1662172323544.jpg uploaded to Melon-img/cam1-1662172323544.jpg
+Melon-img/cam1-1662172323544.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662172323544.jpg?alt=media&token=c4fe679a-c912-435c-91eb-620d678de63f',
+  Date: Timestamp { seconds: 1662172444, nanoseconds: 530000000 }
+}
+C1mel20220903_094002.jpg
+
+File Renamed
+
+./1662172922956.jpg uploaded to Melon-img/cam1-1662172922956.jpg
+Melon-img/cam1-1662172922956.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662172922956.jpg?alt=media&token=7e0b408a-fa89-4270-b085-f8c61d342a3f',
+  Date: Timestamp { seconds: 1662173044, nanoseconds: 855000000 }
+}
+C1mel20220903_102350.jpg
+
+File Renamed
+
+./1662175581534.jpg uploaded to Melon-img/cam1-1662175581534.jpg
+Melon-img/cam1-1662175581534.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662175581534.jpg?alt=media&token=695ef4e8-3331-4080-9a16-e3713160c786',
+  Date: Timestamp { seconds: 1662175592, nanoseconds: 786000000 }
+}
+C1mel20220904_090003.jpg
+
+File Renamed
+
+./1662256923242.jpg uploaded to Melon-img/cam1-1662256923242.jpg
+Melon-img/cam1-1662256923242.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662256923242.jpg?alt=media&token=62153fe5-b9f9-4dbe-9487-162d1585bfe9',
+  Date: Timestamp { seconds: 1662257044, nanoseconds: 472000000 }
+}
+C1mel20220904_091002.jpg
+
+File Renamed
+
+./1662257522240.jpg uploaded to Melon-img/cam1-1662257522240.jpg
+Melon-img/cam1-1662257522240.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662257522240.jpg?alt=media&token=db932227-36f7-4697-a6f0-b39f361fc90a',
+  Date: Timestamp { seconds: 1662257644, nanoseconds: 452000000 }
+}
+C1mel20220904_092002.jpg
+
+File Renamed
+
+./1662258122259.jpg uploaded to Melon-img/cam1-1662258122259.jpg
+Melon-img/cam1-1662258122259.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662258122259.jpg?alt=media&token=711620e5-e449-47b5-98f0-4a1e9ca85886',
+  Date: Timestamp { seconds: 1662258244, nanoseconds: 326000000 }
+}
+C1mel20220904_093002.jpg
+
+File Renamed
+
+./1662258722198.jpg uploaded to Melon-img/cam1-1662258722198.jpg
+Melon-img/cam1-1662258722198.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662258722198.jpg?alt=media&token=a55e3e7c-5e74-4c4e-ace2-6b77e776ef12',
+  Date: Timestamp { seconds: 1662258844, nanoseconds: 740000000 }
+}
+C1mel20220904_094002.jpg
+
+File Renamed
+
+./1662259322321.jpg uploaded to Melon-img/cam1-1662259322321.jpg
+Melon-img/cam1-1662259322321.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662259322321.jpg?alt=media&token=099d1c43-f64c-4bd9-8e80-de59e9e48d27',
+  Date: Timestamp { seconds: 1662259445, nanoseconds: 31000000 }
+}
+C1mel20220905_090002.jpg
+
+File Renamed
+
+./1662343322863.jpg uploaded to Melon-img/cam1-1662343322863.jpg
+Melon-img/cam1-1662343322863.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662343322863.jpg?alt=media&token=a64e0ba3-e124-47da-825e-18d80650e830',
+  Date: Timestamp { seconds: 1662343445, nanoseconds: 91000000 }
+}
+C1mel20220905_091002.jpg
+
+File Renamed
+
+./1662343922436.jpg uploaded to Melon-img/cam1-1662343922436.jpg
+Melon-img/cam1-1662343922436.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662343922436.jpg?alt=media&token=d4ec1483-e945-44f7-b928-642adaaa0bd8',
+  Date: Timestamp { seconds: 1662344045, nanoseconds: 243000000 }
+}
+C1mel20220905_092002.jpg
+
+File Renamed
+
+./1662344522582.jpg uploaded to Melon-img/cam1-1662344522582.jpg
+Melon-img/cam1-1662344522582.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662344522582.jpg?alt=media&token=0eb70272-1017-490e-b553-faba72f2f66e',
+  Date: Timestamp { seconds: 1662344644, nanoseconds: 486000000 }
+}
+C1mel20220905_093002.jpg
+
+File Renamed
+
+./1662345122330.jpg uploaded to Melon-img/cam1-1662345122330.jpg
+Melon-img/cam1-1662345122330.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662345122330.jpg?alt=media&token=49c11f23-6dfa-470d-a799-68d2b96a5e38',
+  Date: Timestamp { seconds: 1662345244, nanoseconds: 855000000 }
+}
+C1mel20220905_094002.jpg
+
+File Renamed
+
+./1662345722865.jpg uploaded to Melon-img/cam1-1662345722865.jpg
+Melon-img/cam1-1662345722865.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662345722865.jpg?alt=media&token=89336a9a-ff54-43ed-82a5-d597ea9d8616',
+  Date: Timestamp { seconds: 1662345844, nanoseconds: 596000000 }
+}
+C1mel20220906_090002.jpg
+
+File Renamed
+
+./1662429784376.jpg uploaded to Melon-img/cam1-1662429784376.jpg
+Melon-img/cam1-1662429784376.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.67',
+  Bounding_box: '251 2011 435 2190. ,1298 1932 2603 3462. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662429784376.jpg?alt=media&token=08884b68-3a1a-43d0-9b94-213bdad1fe37',
+  Date: Timestamp { seconds: 1662429845, nanoseconds: 440000000 }
+}
+C1mel20220906_091002.jpg
+
+File Renamed
+
+./1662430382839.jpg uploaded to Melon-img/cam1-1662430382839.jpg
+Melon-img/cam1-1662430382839.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.67Downy Mildew 0.84 Downy Mildew 0.67Downy Mildew 0.84 Downy Mildew 0.67Downy Mildew 0.84 Downy Mildew 0.67Downy Mildew 0.84 Downy Mildew 0.67NoneDowny Mildew 0.53',
+  Bounding_box: '251 2011 435 2190. ,1298 1932 2603 3462. ,251 2011 435 2190. ,1298 1932 2603 3462. ,251 2011 435 2190. ,1298 1932 2603 3462. ,251 2011 435 2190. ,1298 1932 2603 3462. ,251 2011 435 2190. ,1298 1932 2603 3462. ,None872 438 980 587. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662430382839.jpg?alt=media&token=65baea78-aba4-416b-89da-5b13bf9d1f0d',
+  Date: Timestamp { seconds: 1662430445, nanoseconds: 472000000 }
+}
+C1mel20220906_092002.jpg
+
+File Renamed
+
+./1662430983307.jpg uploaded to Melon-img/cam1-1662430983307.jpg
+Melon-img/cam1-1662430983307.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.56',
+  Bounding_box: '472 600 532 674. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662430983307.jpg?alt=media&token=c396e1cc-5ae4-484c-b95d-7753bae0c69b',
+  Date: Timestamp { seconds: 1662431045, nanoseconds: 162000000 }
+}
+C1mel20220906_093002.jpg
+
+File Renamed
+
+./1662431582986.jpg uploaded to Melon-img/cam1-1662431582986.jpg
+Melon-img/cam1-1662431582986.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662431582986.jpg?alt=media&token=99ffc9bb-730f-4a20-8b7c-b7f19d1cc984',
+  Date: Timestamp { seconds: 1662431644, nanoseconds: 414000000 }
+}
+C1mel20220906_094002.jpg
+
+File Renamed
+
+./1662432183107.jpg uploaded to Melon-img/cam1-1662432183107.jpg
+Melon-img/cam1-1662432183107.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662432183107.jpg?alt=media&token=1d2d9489-2436-42b3-9cff-fc61ec30e241',
+  Date: Timestamp { seconds: 1662432247, nanoseconds: 743000000 }
+}
+C1mel20220906_094905.jpg
+
+File Renamed
+
+./1662432629008.jpg uploaded to Melon-img/cam1-1662432629008.jpg
+Melon-img/cam1-1662432629008.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.63',
+  Bounding_box: '180 497 248 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662432629008.jpg?alt=media&token=2aa24662-9274-4ca7-a22c-4bb15026d3dc',
+  Date: Timestamp { seconds: 1662432653, nanoseconds: 572000000 }
+}
+C1mel20220906_095319.jpg
+
+File Renamed
+
+./1662432855385.jpg uploaded to Melon-img/cam1-1662432855385.jpg
+Melon-img/cam1-1662432855385.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.74 Powdery Mildew 0.68 Downy Mildew 0.64',
+  Bounding_box: '1025 854 1075 914. ,1131 217 1767 523. ,1178 704 1239 780. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662432855385.jpg?alt=media&token=fb019f01-4299-4ed8-afde-4c0f5f9bd58a',
+  Date: Timestamp { seconds: 1662432865, nanoseconds: 548000000 }
+}
+C1mel20220906_095714.jpg
+
+File Renamed
+
+./1662433095339.jpg uploaded to Melon-img/cam1-1662433095339.jpg
+Melon-img/cam1-1662433095339.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.70 Downy Mildew 0.66 Downy Mildew 0.66',
+  Bounding_box: '456 969 534 1027. ,1214 900 1268 958. ,1101 840 1169 917. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662433095339.jpg?alt=media&token=fbdf2b37-a721-4c27-98bb-7d39ac07a649',
+  Date: Timestamp { seconds: 1662433108, nanoseconds: 201000000 }
+}
+C1mel20220906_100651.jpg
+
+File Renamed
+
+./1662433683344.jpg uploaded to Melon-img/cam1-1662433683344.jpg
+Melon-img/cam1-1662433683344.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.80 Downy Mildew 0.78',
+  Bounding_box: '526 965 641 1067. ,414 489 596 658. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662433683344.jpg?alt=media&token=4fe1ab32-a165-4988-af1d-32c797a9e840',
+  Date: Timestamp { seconds: 1662433697, nanoseconds: 743000000 }
+}
+C1mel20220908_091016.jpg
+
+File Renamed
+
+./1662603183565.jpg uploaded to Melon-img/cam1-1662603183565.jpg
+Melon-img/cam1-1662603183565.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662603183565.jpg?alt=media&token=3bbde9cf-ef34-499d-b697-c0946e52cf6d',
+  Date: Timestamp { seconds: 1662603245, nanoseconds: 45000000 }
+}
+C1mel20220908_092002.jpg
+
+File Renamed
+
+./1662603782764.jpg uploaded to Melon-img/cam1-1662603782764.jpg
+Melon-img/cam1-1662603782764.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662603782764.jpg?alt=media&token=9538bc6b-319e-4481-98b8-f725ee34f0de',
+  Date: Timestamp { seconds: 1662603844, nanoseconds: 708000000 }
+}
+C1mel20220908_093002.jpg
+
+File Renamed
+
+./1662604382962.jpg uploaded to Melon-img/cam1-1662604382962.jpg
+Melon-img/cam1-1662604382962.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662604382962.jpg?alt=media&token=698f3b76-92fe-4907-a940-e256518e2d6e',
+  Date: Timestamp { seconds: 1662604445, nanoseconds: 979000000 }
+}
+C1mel20220908_094002.jpg
+
+File Renamed
+
+./1662604982492.jpg uploaded to Melon-img/cam1-1662604982492.jpg
+Melon-img/cam1-1662604982492.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1662604982492.jpg?alt=media&token=7a5b4825-b41a-4db0-8636-8fc939b496a2',
+  Date: Timestamp { seconds: 1662605044, nanoseconds: 384000000 }
+}
+C1mel20220916_090003.jpg
+
+File Renamed
+
+./1663293783549.jpg uploaded to Melon-img/cam1-1663293783549.jpg
+Melon-img/cam1-1663293783549.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663293783549.jpg?alt=media&token=d62bdffb-fcd7-442f-bdf1-c3a0718c89f6',
+  Date: Timestamp { seconds: 1663293844, nanoseconds: 550000000 }
+}
+C1mel20220916_091002.jpg
+
+File Renamed
+
+./1663294382875.jpg uploaded to Melon-img/cam1-1663294382875.jpg
+Melon-img/cam1-1663294382875.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663294382875.jpg?alt=media&token=152f1635-6b05-4c9d-8611-3080ac938800',
+  Date: Timestamp { seconds: 1663294445, nanoseconds: 127000000 }
+}
+C1mel20220916_092002.jpg
+
+File Renamed
+
+./1663294983000.jpg uploaded to Melon-img/cam1-1663294983000.jpg
+Melon-img/cam1-1663294983000.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663294983000.jpg?alt=media&token=1404299a-7f38-4430-9c37-c4524807e8a1',
+  Date: Timestamp { seconds: 1663295044, nanoseconds: 651000000 }
+}
+C1mel20220916_093002.jpg
+
+File Renamed
+
+./1663295582477.jpg uploaded to Melon-img/cam1-1663295582477.jpg
+Melon-img/cam1-1663295582477.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663295582477.jpg?alt=media&token=7d74cfa9-e56d-466d-a29c-3603a525270f',
+  Date: Timestamp { seconds: 1663295644, nanoseconds: 325000000 }
+}
+C1mel20220916_094002.jpg
+
+File Renamed
+
+./1663296182676.jpg uploaded to Melon-img/cam1-1663296182676.jpg
+Melon-img/cam1-1663296182676.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663296182676.jpg?alt=media&token=3d6649c9-a0e5-4f2d-a037-b5924df923ec',
+  Date: Timestamp { seconds: 1663296244, nanoseconds: 407000000 }
+}
+C1mel20220917_090003.jpg
+
+File Renamed
+
+./1663380183688.jpg uploaded to Melon-img/cam1-1663380183688.jpg
+Melon-img/cam1-1663380183688.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663380183688.jpg?alt=media&token=e8ce8a6a-43da-4c69-97d2-ea2dbf021cb6',
+  Date: Timestamp { seconds: 1663380245, nanoseconds: 383000000 }
+}
+C1mel20220917_091002.jpg
+
+File Renamed
+
+./1663380782634.jpg uploaded to Melon-img/cam1-1663380782634.jpg
+Melon-img/cam1-1663380782634.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663380782634.jpg?alt=media&token=73566e8d-9372-46f3-bc6c-df07f3b1dabf',
+  Date: Timestamp { seconds: 1663380844, nanoseconds: 505000000 }
+}
+C1mel20220917_092002.jpg
+
+File Renamed
+
+./1663381382600.jpg uploaded to Melon-img/cam1-1663381382600.jpg
+Melon-img/cam1-1663381382600.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663381382600.jpg?alt=media&token=520cbac8-0e24-4ce9-80e0-151074283fb7',
+  Date: Timestamp { seconds: 1663381444, nanoseconds: 516000000 }
+}
+C1mel20220917_093002.jpg
+
+File Renamed
+
+./1663381982392.jpg uploaded to Melon-img/cam1-1663381982392.jpg
+Melon-img/cam1-1663381982392.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663381982392.jpg?alt=media&token=2554a163-c0ce-46d5-b46c-8da047d4203b',
+  Date: Timestamp { seconds: 1663382044, nanoseconds: 628000000 }
+}
+C1mel20220917_094002.jpg
+
+File Renamed
+
+./1663382582917.jpg uploaded to Melon-img/cam1-1663382582917.jpg
+Melon-img/cam1-1663382582917.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663382582917.jpg?alt=media&token=33a1a3cb-b110-41ee-add4-ec8538578562',
+  Date: Timestamp { seconds: 1663382644, nanoseconds: 607000000 }
+}
+C1mel20220918_090002.jpg
+
+File Renamed
+
+./1663466582249.jpg uploaded to Melon-img/cam1-1663466582249.jpg
+Melon-img/cam1-1663466582249.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663466582249.jpg?alt=media&token=c4bf6dad-1c94-4cae-ab95-3b4fe2e2d1bd',
+  Date: Timestamp { seconds: 1663466644, nanoseconds: 987000000 }
+}
+C1mel20220918_091002.jpg
+
+File Renamed
+
+./1663467182212.jpg uploaded to Melon-img/cam1-1663467182212.jpg
+Melon-img/cam1-1663467182212.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663467182212.jpg?alt=media&token=85ee3ae5-980e-4cba-9676-81b501dacabf',
+  Date: Timestamp { seconds: 1663467245, nanoseconds: 151000000 }
+}
+C1mel20220918_092002.jpg
+
+File Renamed
+
+./1663467782731.jpg uploaded to Melon-img/cam1-1663467782731.jpg
+Melon-img/cam1-1663467782731.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663467782731.jpg?alt=media&token=9801d90a-aaf5-4e37-b3c2-f5ec2a104ffc',
+  Date: Timestamp { seconds: 1663467844, nanoseconds: 945000000 }
+}
+C1mel20220918_093002.jpg
+
+File Renamed
+
+./1663468382420.jpg uploaded to Melon-img/cam1-1663468382420.jpg
+Melon-img/cam1-1663468382420.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663468382420.jpg?alt=media&token=12958503-9a6e-4bd9-89a4-bde6f9da3ffb',
+  Date: Timestamp { seconds: 1663468445, nanoseconds: 201000000 }
+}
+C1mel20220918_094002.jpg
+
+File Renamed
+
+./1663468982903.jpg uploaded to Melon-img/cam1-1663468982903.jpg
+Melon-img/cam1-1663468982903.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663468982903.jpg?alt=media&token=e74910ac-9889-4b41-99d3-d67c5029739b',
+  Date: Timestamp { seconds: 1663469045, nanoseconds: 271000000 }
+}
+C1mel20220919_090002.jpg
+
+File Renamed
+
+./1663552982846.jpg uploaded to Melon-img/cam1-1663552982846.jpg
+Melon-img/cam1-1663552982846.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663552982846.jpg?alt=media&token=779c181d-dfb1-42d6-a415-5f0dfee5dea8',
+  Date: Timestamp { seconds: 1663553045, nanoseconds: 58000000 }
+}
+C1mel20220919_091002.jpg
+
+File Renamed
+
+./1663553583082.jpg uploaded to Melon-img/cam1-1663553583082.jpg
+Melon-img/cam1-1663553583082.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663553583082.jpg?alt=media&token=627583b6-a6b2-4b8b-af29-5e950edfaa8d',
+  Date: Timestamp { seconds: 1663553644, nanoseconds: 655000000 }
+}
+C1mel20220919_092002.jpg
+
+File Renamed
+
+./1663554182958.jpg uploaded to Melon-img/cam1-1663554182958.jpg
+Melon-img/cam1-1663554182958.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663554182958.jpg?alt=media&token=3379db9e-2d8a-45fe-8c7c-aaee121b8220',
+  Date: Timestamp { seconds: 1663554244, nanoseconds: 688000000 }
+}
+C1mel20220919_093002.jpg
+
+File Renamed
+
+./1663554782332.jpg uploaded to Melon-img/cam1-1663554782332.jpg
+Melon-img/cam1-1663554782332.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663554782332.jpg?alt=media&token=d156d81f-ad61-47ce-94bc-4ef5c8c23e85',
+  Date: Timestamp { seconds: 1663554844, nanoseconds: 689000000 }
+}
+C1mel20220919_094002.jpg
+
+File Renamed
+
+./1663555382133.jpg uploaded to Melon-img/cam1-1663555382133.jpg
+Melon-img/cam1-1663555382133.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663555382133.jpg?alt=media&token=4110a720-2031-44f7-b492-78e32e329744',
+  Date: Timestamp { seconds: 1663555444, nanoseconds: 935000000 }
+}
+C1mel20220919_181219.jpg
+
+File Renamed
+
+./1663586033735.jpg uploaded to Melon-img/cam1-1663586033735.jpg
+Melon-img/cam1-1663586033735.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663586033735.jpg?alt=media&token=67939440-272c-4c63-99c6-00a1e4430922',
+  Date: Timestamp { seconds: 1663586057, nanoseconds: 154000000 }
+}
+C1mel20220919_181754.jpg
+
+File Renamed
+
+./1663586332507.jpg uploaded to Melon-img/cam1-1663586332507.jpg
+Melon-img/cam1-1663586332507.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663586332507.jpg?alt=media&token=f3fbd9fb-bb88-42a5-8afc-c32f7ef4555a',
+  Date: Timestamp { seconds: 1663586348, nanoseconds: 20000000 }
+}
+C1mel20220919_182053.jpg
+
+File Renamed
+
+./1663586644145.jpg uploaded to Melon-img/cam1-1663586644145.jpg
+Melon-img/cam1-1663586644145.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'NonePowdery Mildew 0.60',
+  Bounding_box: 'None855 190 1597 727. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663586644145.jpg?alt=media&token=861ea4b8-5c03-477d-8d95-458ce8b6557a',
+  Date: Timestamp { seconds: 1663586670, nanoseconds: 506000000 }
+}
+C1mel20220919_191914.jpg
+
+File Renamed
+
+./1663589980016.jpg uploaded to Melon-img/cam1-1663589980016.jpg
+Melon-img/cam1-1663589980016.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663589980016.jpg?alt=media&token=3e264f9e-f003-4e44-95be-ba941585236c',
+  Date: Timestamp { seconds: 1663589986, nanoseconds: 960000000 }
+}
+C1mel20220919_192202.jpg
+
+File Renamed
+
+./1663590141130.jpg uploaded to Melon-img/cam1-1663590141130.jpg
+Melon-img/cam1-1663590141130.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663590141130.jpg?alt=media&token=71519ddb-20ca-4a95-96c7-d2787f5f5283',
+  Date: Timestamp { seconds: 1663590149, nanoseconds: 955000000 }
+}
+C1mel20220919_192927.jpg
+
+File Renamed
+
+./1663590597716.jpg uploaded to Melon-img/cam1-1663590597716.jpg
+Melon-img/cam1-1663590597716.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663590597716.jpg?alt=media&token=2dbcc244-8014-4b52-a63e-0864394bf7c8',
+  Date: Timestamp { seconds: 1663590604, nanoseconds: 69000000 }
+}
+C1mel20220920_090003.jpg
+
+File Renamed
+
+./1663639382646.jpg uploaded to Melon-img/cam1-1663639382646.jpg
+Melon-img/cam1-1663639382646.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.68',
+  Bounding_box: '1674 0 1896 216. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663639382646.jpg?alt=media&token=8b699ce5-6a46-4c84-bf21-e35dd1991b22',
+  Date: Timestamp { seconds: 1663639444, nanoseconds: 642000000 }
+}
+package-lock.json
+
+File Renamed
+
+./1663639982246.jpg uploaded to Melon-img/cam1-1663639982246.jpg
+package.json
+
+File Renamed
+
+./1663640582422.jpg uploaded to Melon-img/cam1-1663640582422.jpg
+pathimg.txt
+
+File Renamed
+
+./1663641182878.jpg uploaded to Melon-img/cam1-1663641182878.jpg
+C1mel20220920_094002.jpg
+
+File Renamed
+
+./1663641782665.jpg uploaded to Melon-img/cam1-1663641782665.jpg
+Melon-img/cam1-1663641782665.jpg
+C1mel20220920_195838.jpg
+
+File Renamed
+
+./1663678743010.jpg uploaded to Melon-img/cam1-1663678743010.jpg
+Melon-img/cam1-1663678743010.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663678743010.jpg?alt=media&token=e3dd9b2c-2962-41da-80e5-f8e40b1ea700',
+  Date: Timestamp { seconds: 1663678748, nanoseconds: 973000000 }
+}
+C1mel20220906_094602.jpg
+
+File Renamed
+
+./1663678940563.jpg uploaded to Melon-img/cam1-1663678940563.jpg
+Melon-img/cam1-1663678940563.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.72 Downy Mildew 0.71 Downy Mildew 0.51',
+  Bounding_box: '1643 537 1710 587. ,1410 511 1641 610. ,185 505 256 561. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663678940563.jpg?alt=media&token=afe56fe8-395b-4863-9c97-e7805ec2cce7',
+  Date: Timestamp { seconds: 1663678946, nanoseconds: 306000000 }
+}
+C1mel1645550056065.jpg
+
+File Renamed
+
+./1663721844232.jpg uploaded to Melon-img/cam1-1663721844232.jpg
+Melon-img/cam1-1663721844232.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.83 Powdery Mildew 0.80',
+  Bounding_box: '171 477 1826 2107. ,1393 1974 2869 3268. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663721844232.jpg?alt=media&token=ab97d011-5a09-4572-bf97-0e057781f7b5',
+  Date: Timestamp { seconds: 1663721851, nanoseconds: 462000000 }
+}
+C1mel1645550056110.jpg
+
+File Renamed
+
+./1663721952208.jpg uploaded to Melon-img/cam1-1663721952208.jpg
+Melon-img/cam1-1663721952208.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.75',
+  Bounding_box: '0 992 2950 3487. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663721952208.jpg?alt=media&token=ac6f6409-d1d4-48ba-bc07-7e68689a63c5',
+  Date: Timestamp { seconds: 1663721959, nanoseconds: 697000000 }
+}
+C1mel1645550056221.jpg
+
+File Renamed
+
+./1663722054339.jpg uploaded to Melon-img/cam1-1663722054339.jpg
+Melon-img/cam1-1663722054339.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.85 Downy Mildew 0.84 Downy Mildew 0.81 Downy Mildew 0.71 Downy Mildew 0.63 Downy Mildew 0.52',
+  Bounding_box: '269 3847 435 4032. ,2346 1875 3009 2179. ,397 1717 985 1986. ,1444 1376 1628 1556. ,1207 2114 2692 4032. ,4 1966 1297 3026. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722054339.jpg?alt=media&token=c3377ada-9a88-4403-b715-108c5a224bfa',
+  Date: Timestamp { seconds: 1663722060, nanoseconds: 989000000 }
+}
+C1mel1645550056671.jpg
+
+File Renamed
+
+./1663722155156.jpg uploaded to Melon-img/cam1-1663722155156.jpg
+Melon-img/cam1-1663722155156.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.89 Downy Mildew 0.87 Downy Mildew 0.85 Downy Mildew 0.85 Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.74 Downy Mildew 0.59',
+  Bounding_box: '2589 873 3024 1075. ,2572 7 3024 697. ,1291 2897 1528 3619. ,492 1163 1122 1530. ,219 1597 1167 1944. ,260 2234 506 2528. ,1081 2311 1578 2821. ,371 2712 1219 3853. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722155156.jpg?alt=media&token=575f9868-5995-4896-a64a-9b26b136aa1f',
+  Date: Timestamp { seconds: 1663722162, nanoseconds: 289000000 }
+}
+C1mel1645550056840.jpg
+
+File Renamed
+
+./1663722265540.jpg uploaded to Melon-img/cam1-1663722265540.jpg
+Melon-img/cam1-1663722265540.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.87 Downy Mildew 0.86 Downy Mildew 0.83 Powdery Mildew 0.79',
+  Bounding_box: '306 981 2931 3665. ,1685 997 1997 1477. ,2258 896 2473 1067. ,535 2631 1055 3229. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722265540.jpg?alt=media&token=7eea3d5a-9353-450e-a1d0-eaac6972b8ae',
+  Date: Timestamp { seconds: 1663722272, nanoseconds: 356000000 }
+}
+C1mel1645550057200.jpg
+
+File Renamed
+
+./1663722367009.jpg uploaded to Melon-img/cam1-1663722367009.jpg
+Melon-img/cam1-1663722367009.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.87 Downy Mildew 0.85 Downy Mildew 0.85 Downy Mildew 0.83 Downy Mildew 0.82 Downy Mildew 0.82 Downy Mildew 0.66',
+  Bounding_box: '1218 3308 1763 3708. ,2036 2183 2342 2399. ,1768 1643 1988 1957. ,789 1767 1767 3455. ,2114 2485 2643 2811. ,2781 1593 2942 1859. ,2067 2879 2768 3643. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722367009.jpg?alt=media&token=1272a5f2-7089-440c-84c7-081ced17ac17',
+  Date: Timestamp { seconds: 1663722373, nanoseconds: 804000000 }
+}
+C1mel1645550057811.jpg
+
+File Renamed
+
+./1663722473513.jpg uploaded to Melon-img/cam1-1663722473513.jpg
+Melon-img/cam1-1663722473513.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.88 Powdery Mildew 0.78 Downy Mildew 0.60',
+  Bounding_box: '1156 2957 1276 3069. ,686 1556 2293 2914. ,903 2871 2262 4032. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722473513.jpg?alt=media&token=e9cc6d50-af69-4672-a0f7-cdc1410e10b7',
+  Date: Timestamp { seconds: 1663722480, nanoseconds: 242000000 }
+}
+C1mel1645550057925.jpg
+
+File Renamed
+
+./1663722604099.jpg uploaded to Melon-img/cam1-1663722604099.jpg
+Melon-img/cam1-1663722604099.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.88 Downy Mildew 0.79 Downy Mildew 0.55',
+  Bounding_box: '1326 1186 1417 1280. ,339 1958 758 2476. ,41 2247 1857 3662. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722604099.jpg?alt=media&token=7a5b5e74-a499-4532-bd1f-c5da0da9d3d5',
+  Date: Timestamp { seconds: 1663722610, nanoseconds: 363000000 }
+}
+C1mel20220606091002.jpg
+
+File Renamed
+
+./1663722705153.jpg uploaded to Melon-img/cam1-1663722705153.jpg
+Melon-img/cam1-1663722705153.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.67',
+  Bounding_box: '251 2011 435 2190. ,1298 1932 2603 3462. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722705153.jpg?alt=media&token=1baa8971-4564-4c06-b06f-7eeb8dbb1b47',
+  Date: Timestamp { seconds: 1663722712, nanoseconds: 43000000 }
+}
+C1mel20220606092002.jpg
+
+File Renamed
+
+./1663722809228.jpg uploaded to Melon-img/cam1-1663722809228.jpg
+Melon-img/cam1-1663722809228.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.81',
+  Bounding_box: '15 1309 3015 3978. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722809228.jpg?alt=media&token=e7c7f4db-b060-4c8f-bf97-8f9619e83755',
+  Date: Timestamp { seconds: 1663722816, nanoseconds: 38000000 }
+}
+C1mel20220606093002.jpg
+
+File Renamed
+
+./1663722912529.jpg uploaded to Melon-img/cam1-1663722912529.jpg
+Melon-img/cam1-1663722912529.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.91 Downy Mildew 0.80 Downy Mildew 0.79 Powdery Mildew 0.79 Downy Mildew 0.67',
+  Bounding_box: '2671 2105 2795 2198. ,1347 2027 1557 2178. ,28 1551 2166 3363. ,1168 3209 1320 3345. ,1653 2023 2209 2405. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663722912529.jpg?alt=media&token=9c4ed8e4-5706-456f-8072-ec58657346e3',
+  Date: Timestamp { seconds: 1663722919, nanoseconds: 103000000 }
+}
+C1mel20220606094002.jpg
+
+File Renamed
+
+./1663723013488.jpg uploaded to Melon-img/cam1-1663723013488.jpg
+Melon-img/cam1-1663723013488.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.81 Downy Mildew 0.71 Powdery Mildew 0.59',
+  Bounding_box: '208 1272 2658 3541. ,2792 834 2915 939. ,714 3053 935 3368. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663723013488.jpg?alt=media&token=903a3834-3017-48b5-8b17-747e7d21535c',
+  Date: Timestamp { seconds: 1663723019, nanoseconds: 975000000 }
+}
+C1mel20220906_090903.jpg
+
+File Renamed
+
+./1663723155994.jpg uploaded to Melon-img/cam1-1663723155994.jpg
+Melon-img/cam1-1663723155994.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663723155994.jpg?alt=media&token=f72c1ddd-4a25-494e-9851-7feeb21eb6c6',
+  Date: Timestamp { seconds: 1663723162, nanoseconds: 305000000 }
+}
+C1mel20220906_094602.jpg
+
+File Renamed
+
+./1663723256791.jpg uploaded to Melon-img/cam1-1663723256791.jpg
+Melon-img/cam1-1663723256791.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.72 Downy Mildew 0.71 Downy Mildew 0.51',
+  Bounding_box: '1643 537 1710 587. ,1410 511 1641 610. ,185 505 256 561. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663723256791.jpg?alt=media&token=12097d4f-291e-47a5-b9b9-364d5de2e1a1',
+  Date: Timestamp { seconds: 1663723262, nanoseconds: 765000000 }
+}
+C1mel20220906_095302.jpg
+
+File Renamed
+
+./1663723377607.jpg uploaded to Melon-img/cam1-1663723377607.jpg
+Melon-img/cam1-1663723377607.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.76 Downy Mildew 0.71 Powdery Mildew 0.70 Downy Mildew 0.57 Downy Mildew 0.52',
+  Bounding_box: '844 672 895 709. ,900 816 944 882. ,1150 235 1735 534. ,1007 863 1060 917. ,1159 715 1225 795. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663723377607.jpg?alt=media&token=f6177d32-9be5-406c-906c-b900b8e8763c',
+  Date: Timestamp { seconds: 1663723383, nanoseconds: 415000000 }
+}
+C1mel20220906_101330.jpg
+
+File Renamed
+
+./1663723475139.jpg uploaded to Melon-img/cam1-1663723475139.jpg
+Melon-img/cam1-1663723475139.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84',
+  Bounding_box: '1015 176 1233 422. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663723475139.jpg?alt=media&token=ed4d5c2f-348a-424b-bb88-b54a32517b55',
+  Date: Timestamp { seconds: 1663723481, nanoseconds: 4000000 }
+}
+C1mel20220906_101330.jpg
+
+File Renamed
+
+./1663723625197.jpg uploaded to Melon-img/cam1-1663723625197.jpg
+Melon-img/cam1-1663723625197.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84',
+  Bounding_box: '1015 176 1233 422. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663723625197.jpg?alt=media&token=e7d0b0fb-5e11-4e8e-ae1a-6d7b7c4ade5d',
+  Date: Timestamp { seconds: 1663723631, nanoseconds: 87000000 }
+}
+C1mel20220906_094602.jpg
+
+File Renamed
+
+./1663726774543.jpg uploaded to Melon-img/cam1-1663726774543.jpg
+Melon-img/cam1-1663726774543.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.72 Downy Mildew 0.71 Downy Mildew 0.51',
+  Bounding_box: '1643 537 1710 587. ,1410 511 1641 610. ,185 505 256 561. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663726774543.jpg?alt=media&token=fae2cc3e-8627-4f7d-80c5-d6cfec126426',
+  Date: Timestamp { seconds: 1663726783, nanoseconds: 723000000 }
+}
+C1mel20220906_101330.jpg
+
+File Renamed
+
+./1663734361307.jpg uploaded to Melon-img/cam1-1663734361307.jpg
+Melon-img/cam1-1663734361307.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84',
+  Bounding_box: '1015 176 1233 422. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1663734361307.jpg?alt=media&token=d7a3c1fa-df70-4745-94dc-4dc2ab565f96',
+  Date: Timestamp { seconds: 1663734368, nanoseconds: 672000000 }
+}
+C1mel1645550056065.jpg
+
+File Renamed
+
+./1664676183141.jpg uploaded to Melon-img/cam1-1664676183141.jpg
+Melon-img/cam1-1664676183141.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Powdery Mildew 0.83 Powdery Mildew 0.80',
+  Bounding_box: '171 477 1826 2107. ,1393 1974 2869 3268. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664676183141.jpg?alt=media&token=09d59ca1-9da6-4f9d-8a0b-830c0f905dfc',
+  Date: Timestamp { seconds: 1664676244, nanoseconds: 52000000 }
+}
+C1mel20221002_091002.jpg
+
+File Renamed
+
+./1664676782395.jpg uploaded to Melon-img/cam1-1664676782395.jpg
+Melon-img/cam1-1664676782395.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'NoneNone',
+  Bounding_box: 'NoneNone',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664676782395.jpg?alt=media&token=c5e86aa6-9f3c-4454-9bc4-60754ada34e4',
+  Date: Timestamp { seconds: 1664676843, nanoseconds: 766000000 }
+}
+C1mel20221002_092002.jpg
+
+File Renamed
+
+./1664677382311.jpg uploaded to Melon-img/cam1-1664677382311.jpg
+Melon-img/cam1-1664677382311.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664677382311.jpg?alt=media&token=7631f045-01f9-4920-b3a8-46bc9553e3b2',
+  Date: Timestamp { seconds: 1664677443, nanoseconds: 637000000 }
+}
+C1mel20221002_093002.jpg
+
+File Renamed
+
+./1664677982629.jpg uploaded to Melon-img/cam1-1664677982629.jpg
+Melon-img/cam1-1664677982629.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'None',
+  Bounding_box: 'None',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664677982629.jpg?alt=media&token=d1d34677-e90c-4f31-aa75-e1d8178c67a7',
+  Date: Timestamp { seconds: 1664678044, nanoseconds: 386000000 }
+}
+C1mel20221002_094002.jpg
+
+File Renamed
+
+./1664678582453.jpg uploaded to Melon-img/cam1-1664678582453.jpg
+Melon-img/cam1-1664678582453.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.53',
+  Bounding_box: '1515 630 1785 769. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664678582453.jpg?alt=media&token=8d81db2f-dafa-4554-b8ee-4ea847aaad9f',
+  Date: Timestamp { seconds: 1664678644, nanoseconds: 479000000 }
+}
+package-lock.json
+
+File Renamed
+
+./1664764992585.jpg uploaded to Melon-img/cam1-1664764992585.jpg
+Confidence_value.txt
+C1mel20221003_095249.jpg
+
+File Renamed
+
+./1664765651174.jpg uploaded to Melon-img/cam1-1664765651174.jpg
+Bounding_box.txt
+
+File Renamed
+
+./1664765662867.jpg uploaded to Melon-img/cam1-1664765662867.jpg
+C1mel20221003_095603.jpg
+
+File Renamed
+
+./1664765865639.jpg uploaded to Melon-img/cam1-1664765865639.jpg
+Melon-img/cam1-1664765865639.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.80 Downy Mildew 0.77 Downy Mildew 0.72 Downy Mildew 0.51',
+  Bounding_box: '906 201 979 241. ,733 638 820 683. ,660 331 770 383. ,679 422 761 504. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664765865639.jpg?alt=media&token=a9b0bd2c-24cd-4f5e-9581-a8c654e9e986',
+  Date: Timestamp { seconds: 1664765891, nanoseconds: 792000000 }
+}
+C1mel20221003_100122.jpg
+
+File Renamed
+
+./1664766143061.jpg uploaded to Melon-img/cam1-1664766143061.jpg
+Melon-img/cam1-1664766143061.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.81 Downy Mildew 0.78 Downy Mildew 0.73 Downy Mildew 0.56',
+  Bounding_box: '903 89 980 132. ,732 528 821 575. ,656 219 771 274. ,679 310 761 395. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664766143061.jpg?alt=media&token=3b4ae8ca-1b3b-42eb-9f37-70fdf5ffac55',
+  Date: Timestamp { seconds: 1664766154, nanoseconds: 486000000 }
+}
+C1mel20221003_100559.jpg
+
+File Renamed
+
+./1664766412103.jpg uploaded to Melon-img/cam1-1664766412103.jpg
+Melon-img/cam1-1664766412103.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.69 Downy Mildew 0.57',
+  Bounding_box: '475 329 535 365. ,634 797 712 841. ,674 350 822 447. ,704 479 787 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1664766412103.jpg?alt=media&token=419929a9-639f-4c83-9650-b0ced2fff5a6',
+  Date: Timestamp { seconds: 1664766421, nanoseconds: 653000000 }
+}
+C1mel_20221025_090001.jpg
+
+File Renamed
+
+./1666595554529.jpg uploaded to Melon-img/cam1-1666595554529.jpg
+Melon-img/cam1-1666595554529.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.80 Downy Mildew 0.71',
+  Bounding_box: '635 797 714 843. ,672 349 823 444. ,704 478 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666595554529.jpg?alt=media&token=2b9540cb-361e-42ca-82f1-2ac3e6bee1b3',
+  Date: Timestamp { seconds: 1666595568, nanoseconds: 530000000 }
+}
+C1mel_20221025_090001.jpg
+
+File Renamed
+
+./1666663382492.jpg uploaded to Melon-img/cam1-1666663382492.jpg
+Melon-img/cam1-1666663382492.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.80 Downy Mildew 0.71',
+  Bounding_box: '635 797 714 843. ,672 349 823 444. ,704 478 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666663382492.jpg?alt=media&token=92913b62-f2d7-42ae-9b8d-c0340fc21450',
+  Date: Timestamp { seconds: 1666663443, nanoseconds: 737000000 }
+}
+C1mel_20221025_091001.jpg
+
+File Renamed
+
+./1666663982611.jpg uploaded to Melon-img/cam1-1666663982611.jpg
+Melon-img/cam1-1666663982611.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.71 Downy Mildew 0.53',
+  Bounding_box: '475 330 534 364. ,633 797 713 843. ,673 352 822 444. ,702 479 787 556. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666663982611.jpg?alt=media&token=f0a4e15a-46b7-4930-9a5f-0bdc906c9865',
+  Date: Timestamp { seconds: 1666664044, nanoseconds: 153000000 }
+}
+C1mel_20221025_092001.jpg
+
+File Renamed
+
+./1666664582715.jpg uploaded to Melon-img/cam1-1666664582715.jpg
+Melon-img/cam1-1666664582715.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.72 Downy Mildew 0.54',
+  Bounding_box: '475 330 534 364. ,633 797 713 843. ,673 353 821 444. ,702 479 787 556. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666664582715.jpg?alt=media&token=e144c965-865c-46f8-8544-98876c0e7375',
+  Date: Timestamp { seconds: 1666664644, nanoseconds: 117000000 }
+}
+C1mel_20221025_093001.jpg
+
+File Renamed
+
+./1666665182183.jpg uploaded to Melon-img/cam1-1666665182183.jpg
+Melon-img/cam1-1666665182183.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.71 Downy Mildew 0.51',
+  Bounding_box: '272 545 348 629. ,633 799 712 841. ,669 348 823 445. ,702 479 788 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666665182183.jpg?alt=media&token=33b1035c-0220-4fe9-9709-131c8d0d1283',
+  Date: Timestamp { seconds: 1666665243, nanoseconds: 820000000 }
+}
+C1mel_20221025_094001.jpg
+
+File Renamed
+
+./1666665782806.jpg uploaded to Melon-img/cam1-1666665782806.jpg
+Melon-img/cam1-1666665782806.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.81 Downy Mildew 0.71 Downy Mildew 0.51',
+  Bounding_box: '477 331 537 365. ,633 800 710 840. ,673 347 823 446. ,703 478 786 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666665782806.jpg?alt=media&token=b5385436-1bcb-4b4d-85eb-52ee648feb35',
+  Date: Timestamp { seconds: 1666665844, nanoseconds: 264000000 }
+}
+C1mel_20221026_090001.jpg
+
+File Renamed
+
+./1666749782595.jpg uploaded to Melon-img/cam1-1666749782595.jpg
+Melon-img/cam1-1666749782595.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.81 Downy Mildew 0.71',
+  Bounding_box: '631 798 711 840. ,670 351 823 445. ,703 478 787 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666749782595.jpg?alt=media&token=f6983e18-dc1f-45f2-99f1-d48b98aa22ae',
+  Date: Timestamp { seconds: 1666749844, nanoseconds: 315000000 }
+}
+C1mel_20221026_091001.jpg
+
+File Renamed
+
+./1666750382196.jpg uploaded to Melon-img/cam1-1666750382196.jpg
+Melon-img/cam1-1666750382196.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.70',
+  Bounding_box: '633 799 711 840. ,673 352 825 446. ,703 480 787 556. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666750382196.jpg?alt=media&token=cb07f19c-dd63-447a-bddd-683c825b67b9',
+  Date: Timestamp { seconds: 1666750444, nanoseconds: 902000000 }
+}
+C1mel_20221026_092001.jpg
+
+File Renamed
+
+./1666750982137.jpg uploaded to Melon-img/cam1-1666750982137.jpg
+Melon-img/cam1-1666750982137.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.81 Downy Mildew 0.73',
+  Bounding_box: '630 798 711 841. ,668 350 825 446. ,703 479 787 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666750982137.jpg?alt=media&token=a1248ef3-f65b-4dd8-a3f6-ae4f9cdbe9b1',
+  Date: Timestamp { seconds: 1666751044, nanoseconds: 181000000 }
+}
+C1mel_20221026_093001.jpg
+
+File Renamed
+
+./1666751582549.jpg uploaded to Melon-img/cam1-1666751582549.jpg
+Melon-img/cam1-1666751582549.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.81 Downy Mildew 0.73',
+  Bounding_box: '629 799 713 841. ,668 350 825 446. ,703 479 786 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666751582549.jpg?alt=media&token=bd3d33da-7fa3-4a38-b04c-557515885111',
+  Date: Timestamp { seconds: 1666751643, nanoseconds: 468000000 }
+}
+C1mel_20221026_094001.jpg
+
+File Renamed
+
+./1666752182379.jpg uploaded to Melon-img/cam1-1666752182379.jpg
+Melon-img/cam1-1666752182379.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.81 Downy Mildew 0.73 Downy Mildew 0.51',
+  Bounding_box: '476 330 535 365. ,632 800 710 841. ,671 348 825 448. ,704 480 788 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666752182379.jpg?alt=media&token=d57362f6-9f0d-4f99-93db-9847c614dccc',
+  Date: Timestamp { seconds: 1666752243, nanoseconds: 864000000 }
+}
+C1mel_20221027_090001.jpg
+
+File Renamed
+
+./1666836182318.jpg uploaded to Melon-img/cam1-1666836182318.jpg
+Melon-img/cam1-1666836182318.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.82 Downy Mildew 0.68',
+  Bounding_box: '633 800 711 840. ,672 351 823 447. ,703 479 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666836182318.jpg?alt=media&token=a975b003-6196-4b54-aae6-a85e8ce71dff',
+  Date: Timestamp { seconds: 1666836244, nanoseconds: 499000000 }
+}
+C1mel_20221027_091001.jpg
+
+File Renamed
+
+./1666836782838.jpg uploaded to Melon-img/cam1-1666836782838.jpg
+Melon-img/cam1-1666836782838.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.83 Downy Mildew 0.70',
+  Bounding_box: '632 800 711 840. ,672 350 824 448. ,703 480 786 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666836782838.jpg?alt=media&token=34249363-d488-4d55-b353-61fd6473a6ba',
+  Date: Timestamp { seconds: 1666836843, nanoseconds: 498000000 }
+}
+C1mel_20221027_092001.jpg
+
+File Renamed
+
+./1666837382151.jpg uploaded to Melon-img/cam1-1666837382151.jpg
+Melon-img/cam1-1666837382151.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.70',
+  Bounding_box: '632 799 711 839. ,676 354 822 445. ,704 478 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666837382151.jpg?alt=media&token=58b00871-cabe-41a0-a1dc-d1247baca81e',
+  Date: Timestamp { seconds: 1666837443, nanoseconds: 573000000 }
+}
+C1mel_20221027_093001.jpg
+
+File Renamed
+
+./1666837982831.jpg uploaded to Melon-img/cam1-1666837982831.jpg
+Melon-img/cam1-1666837982831.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.81 Downy Mildew 0.71 Downy Mildew 0.56',
+  Bounding_box: '273 546 352 628. ,635 798 716 844. ,671 348 823 447. ,704 479 786 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666837982831.jpg?alt=media&token=84fbc398-dd64-4c14-b39e-467f01a9a626',
+  Date: Timestamp { seconds: 1666838043, nanoseconds: 750000000 }
+}
+C1mel_20221027_094001.jpg
+
+File Renamed
+
+./1666838582522.jpg uploaded to Melon-img/cam1-1666838582522.jpg
+Melon-img/cam1-1666838582522.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.72 Downy Mildew 0.52',
+  Bounding_box: '476 330 538 365. ,632 799 712 841. ,670 352 822 445. ,704 479 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666838582522.jpg?alt=media&token=876f49fd-174f-433f-8d93-177171e66582',
+  Date: Timestamp { seconds: 1666838643, nanoseconds: 619000000 }
+}
+C1mel_20221028_090001.jpg
+
+File Renamed
+
+./1666922582648.jpg uploaded to Melon-img/cam1-1666922582648.jpg
+Melon-img/cam1-1666922582648.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.82 Downy Mildew 0.71',
+  Bounding_box: '634 797 712 842. ,672 352 822 446. ,703 480 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666922582648.jpg?alt=media&token=76931b06-92cd-4a92-8fe5-d7a2ed1588f5',
+  Date: Timestamp { seconds: 1666922644, nanoseconds: 399000000 }
+}
+C1mel_20221028_091001.jpg
+
+File Renamed
+
+./1666923182496.jpg uploaded to Melon-img/cam1-1666923182496.jpg
+Melon-img/cam1-1666923182496.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.79 Downy Mildew 0.72 Downy Mildew 0.60',
+  Bounding_box: '272 546 350 629. ,634 798 708 843. ,670 350 822 447. ,701 480 786 556. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666923182496.jpg?alt=media&token=00d8b293-6b34-4d0f-a306-87c20110877f',
+  Date: Timestamp { seconds: 1666923243, nanoseconds: 709000000 }
+}
+C1mel_20221028_092001.jpg
+
+File Renamed
+
+./1666923782070.jpg uploaded to Melon-img/cam1-1666923782070.jpg
+Melon-img/cam1-1666923782070.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.79 Downy Mildew 0.70 Downy Mildew 0.52',
+  Bounding_box: '274 545 351 628. ,634 798 711 844. ,672 348 821 445. ,702 478 785 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666923782070.jpg?alt=media&token=51a59b60-7228-4c13-8db3-d1ec0bc9ab47',
+  Date: Timestamp { seconds: 1666923844, nanoseconds: 132000000 }
+}
+C1mel_20221028_093001.jpg
+
+File Renamed
+
+./1666924382581.jpg uploaded to Melon-img/cam1-1666924382581.jpg
+Melon-img/cam1-1666924382581.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.69',
+  Bounding_box: '633 799 710 842. ,703 480 786 554. ,672 351 822 447. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666924382581.jpg?alt=media&token=e6b49015-5a2a-4f1e-b1d5-42a5a6ae5602',
+  Date: Timestamp { seconds: 1666924443, nanoseconds: 935000000 }
+}
+C1mel_20221028_094001.jpg
+
+File Renamed
+
+./1666924982930.jpg uploaded to Melon-img/cam1-1666924982930.jpg
+Melon-img/cam1-1666924982930.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.71',
+  Bounding_box: '635 798 713 842. ,671 352 822 445. ,703 479 788 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1666924982930.jpg?alt=media&token=9d847e35-25ff-4517-a548-abb9a022f3ec',
+  Date: Timestamp { seconds: 1666925044, nanoseconds: 9000000 }
+}
+C1mel_20221029_090001.jpg
+
+File Renamed
+
+./1667008982690.jpg uploaded to Melon-img/cam1-1667008982690.jpg
+Melon-img/cam1-1667008982690.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.72 Downy Mildew 0.54 Downy Mildew 0.51',
+  Bounding_box: '272 544 347 630. ,475 331 539 365. ,631 799 710 841. ,672 349 822 445. ,702 479 785 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667008982690.jpg?alt=media&token=da9295f0-7d2c-490b-b892-1844ee1045d7',
+  Date: Timestamp { seconds: 1667009044, nanoseconds: 455000000 }
+}
+C1mel_20221029_091001.jpg
+
+File Renamed
+
+./1667009582978.jpg uploaded to Melon-img/cam1-1667009582978.jpg
+Melon-img/cam1-1667009582978.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.78 Downy Mildew 0.70',
+  Bounding_box: '634 798 710 843. ,670 351 824 447. ,703 480 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667009582978.jpg?alt=media&token=da912d64-b673-4250-98d9-ee38fb1c2729',
+  Date: Timestamp { seconds: 1667009643, nanoseconds: 900000000 }
+}
+C1mel_20221029_092001.jpg
+
+File Renamed
+
+./1667010182241.jpg uploaded to Melon-img/cam1-1667010182241.jpg
+Melon-img/cam1-1667010182241.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.83 Downy Mildew 0.69',
+  Bounding_box: '633 799 710 842. ,672 351 822 447. ,703 480 786 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667010182241.jpg?alt=media&token=8e6ada18-e73c-4627-90f3-91b242ea794c',
+  Date: Timestamp { seconds: 1667010244, nanoseconds: 63000000 }
+}
+C1mel_20221029_093001.jpg
+
+File Renamed
+
+./1667010782082.jpg uploaded to Melon-img/cam1-1667010782082.jpg
+Melon-img/cam1-1667010782082.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.71',
+  Bounding_box: '632 799 710 840. ,670 351 825 444. ,703 479 786 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667010782082.jpg?alt=media&token=a6ad6322-6561-438f-816c-d6e0bc7c9680',
+  Date: Timestamp { seconds: 1667010844, nanoseconds: 556000000 }
+}
+C1mel_20221029_094001.jpg
+
+File Renamed
+
+./1667011382433.jpg uploaded to Melon-img/cam1-1667011382433.jpg
+Melon-img/cam1-1667011382433.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.81 Downy Mildew 0.72 Downy Mildew 0.51 Downy Mildew 0.51',
+  Bounding_box: '272 546 351 630. ,475 331 537 365. ,631 797 711 840. ,672 348 823 445. ,703 479 787 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667011382433.jpg?alt=media&token=8aa71887-f316-4a60-b57c-421f6bc1d43d',
+  Date: Timestamp { seconds: 1667011443, nanoseconds: 540000000 }
+}
+C1mel_20221030_090001.jpg
+
+File Renamed
+
+./1667095382914.jpg uploaded to Melon-img/cam1-1667095382914.jpg
+Melon-img/cam1-1667095382914.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.72 Downy Mildew 0.52',
+  Bounding_box: '476 330 538 365. ,632 799 712 841. ,671 352 821 446. ,703 479 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667095382914.jpg?alt=media&token=da54f654-4440-4a6b-8e24-57fe611a9a89',
+  Date: Timestamp { seconds: 1667095444, nanoseconds: 669000000 }
+}
+C1mel_20221030_091001.jpg
+
+File Renamed
+
+./1667095982723.jpg uploaded to Melon-img/cam1-1667095982723.jpg
+Melon-img/cam1-1667095982723.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.71 Downy Mildew 0.51 Downy Mildew 0.51',
+  Bounding_box: '476 331 533 364. ,272 546 349 627. ,635 798 713 842. ,670 351 822 446. ,703 478 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667095982723.jpg?alt=media&token=48696b95-ad4f-4f56-8ddb-6c2a93da1bf3',
+  Date: Timestamp { seconds: 1667096043, nanoseconds: 831000000 }
+}
+C1mel_20221030_092001.jpg
+
+File Renamed
+
+./1667096582361.jpg uploaded to Melon-img/cam1-1667096582361.jpg
+Melon-img/cam1-1667096582361.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.70 Downy Mildew 0.50',
+  Bounding_box: '270 545 349 633. ,633 799 710 840. ,674 352 821 446. ,703 479 786 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667096582361.jpg?alt=media&token=bd77978c-f661-4ad8-bbd1-ce7710159ecb',
+  Date: Timestamp { seconds: 1667096644, nanoseconds: 161000000 }
+}
+C1mel_20221030_093001.jpg
+
+File Renamed
+
+./1667097182529.jpg uploaded to Melon-img/cam1-1667097182529.jpg
+Melon-img/cam1-1667097182529.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.77 Downy Mildew 0.71 Downy Mildew 0.57',
+  Bounding_box: '272 546 350 629. ,633 798 710 843. ,671 348 824 447. ,702 480 786 556. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667097182529.jpg?alt=media&token=5f44f7c8-4ef9-4fe4-b53f-548d6f82fffc',
+  Date: Timestamp { seconds: 1667097243, nanoseconds: 633000000 }
+}
+C1mel_20221030_094001.jpg
+
+File Renamed
+
+./1667097782214.jpg uploaded to Melon-img/cam1-1667097782214.jpg
+Melon-img/cam1-1667097782214.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.70 Downy Mildew 0.50',
+  Bounding_box: '270 545 349 633. ,633 799 710 840. ,674 352 821 445. ,703 479 786 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667097782214.jpg?alt=media&token=3cbfb326-f9fa-4a33-8ecd-7c736f1f995d',
+  Date: Timestamp { seconds: 1667097843, nanoseconds: 905000000 }
+}
+C1mel_20221031_090001.jpg
+
+File Renamed
+
+./1667181783698.jpg uploaded to Melon-img/cam1-1667181783698.jpg
+Melon-img/cam1-1667181783698.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.71',
+  Bounding_box: '632 799 709 840. ,669 350 826 446. ,703 479 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667181783698.jpg?alt=media&token=64b7fb85-3f81-4ca7-83bb-2144b25f8431',
+  Date: Timestamp { seconds: 1667181844, nanoseconds: 616000000 }
+}
+C1mel_20221031_091001.jpg
+
+File Renamed
+
+./1667182382908.jpg uploaded to Melon-img/cam1-1667182382908.jpg
+Melon-img/cam1-1667182382908.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.83 Downy Mildew 0.81 Downy Mildew 0.72 Downy Mildew 0.52',
+  Bounding_box: '475 331 537 365. ,631 797 711 840. ,672 348 822 445. ,703 479 787 554. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667182382908.jpg?alt=media&token=a1cb842f-3145-4bb0-9b2d-aab28ba50be8',
+  Date: Timestamp { seconds: 1667182444, nanoseconds: 364000000 }
+}
+C1mel_20221031_092001.jpg
+
+File Renamed
+
+./1667182982762.jpg uploaded to Melon-img/cam1-1667182982762.jpg
+Melon-img/cam1-1667182982762.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.70 Downy Mildew 0.51 Downy Mildew 0.51',
+  Bounding_box: '273 546 349 627. ,476 331 533 364. ,635 798 712 842. ,671 351 823 446. ,703 478 786 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667182982762.jpg?alt=media&token=d2ad64d0-eed7-4d92-a718-278b7eca5b28',
+  Date: Timestamp { seconds: 1667183044, nanoseconds: 542000000 }
+}
+C1mel_20221031_093001.jpg
+
+File Renamed
+
+./1667183582675.jpg uploaded to Melon-img/cam1-1667183582675.jpg
+Melon-img/cam1-1667183582675.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.83 Downy Mildew 0.73 Downy Mildew 0.58',
+  Bounding_box: '475 329 536 364. ,630 799 712 840. ,670 352 820 447. ,704 479 788 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667183582675.jpg?alt=media&token=9bcf7edf-7aab-472c-a0ad-9ac48ad6ec06',
+  Date: Timestamp { seconds: 1667183644, nanoseconds: 321000000 }
+}
+C1mel_20221031_094001.jpg
+
+File Renamed
+
+./1667184183021.jpg uploaded to Melon-img/cam1-1667184183021.jpg
+Melon-img/cam1-1667184183021.jpg
+{
+  Camera: 'cam1',
+  Confidence_value: 'Downy Mildew 0.84 Downy Mildew 0.82 Downy Mildew 0.72',
+  Bounding_box: '633 799 711 840. ,670 351 826 444. ,703 479 787 555. ,',
+  URL: 'https://firebasestorage.googleapis.com/v0/b/web-melon01.appspot.com/o/Melon-img%2Fcam1-1667184183021.jpg?alt=media&token=2b532fe4-051f-4dc1-b771-8b263c10a36a',
+  Date: Timestamp { seconds: 1667184244, nanoseconds: 285000000 }
+}

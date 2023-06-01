@@ -1,0 +1,125 @@
+/home/leaf/Documents/melProject/capCam1.py
+
+30 8 * * * sudo nvpmodel -m0
+
+0,10,20,30,40 9 * * * /usr/bin/python3 /home/leaf/Documents/melProject/capCam1.py >> /home/leaf/Documents/melProject/log.txt
+
+
+0,10,20,30,40 9 * * * /usr/bin/python3 /home/leaf/Documents/melProject/Move_file.py >> /home/leaf/Documents/melProject/log.txt
+
+1,11,21,31,41 9 * * * cd /home/leaf/Documents/melProject/yolov5 && /usr/bin/python3.6 Copy_detect3.py >> /home/leaf/Documents/melProject/yolo.txt
+
+2,12,22,32,42 9 * * * cd /home/leaf/Documents/melProject/yolov5 && /usr/bin/python3.6 aug_detect.py >> /home/leaf/Documents/melProject/aug.txt
+
+3,13,23,33,43 9 * * * cd /home/leaf/Documents/melProject/upload && /usr/local/bin/node --experimental-modules 2uploadimg.mjs >> /home/leaf/Documents/melProject/upload.txt
+
+4,14,24,34,44 9 * * * cd /home/leaf/Documents/melProject/upload && /usr/local/bin/node --experimental-modules 2uploaddb.mjs >> /home/leaf/Documents/melProject/upload.txt
+
+6,16,26,36,46 9 * * * mv /home/leaf/Documents/melProject/Cam1/*.jpg /home/leaf/Documents/melProject/Cam1/used/
+
+7,17,27,37,47 9 * * * mv /home/leaf/Documents/melProject/upload/*.jpg /home/leaf/Documents/melProject/Cam1/uploaded/
+
+8,18,28,38,48 9 * * * rm -rf /home/leaf/Documents/melProject/upload/*.txt
+
+15 10 * * * sudo nvpmodel -m1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 8 * * * sudo nvpmodel -m0
+
+0,10,20,30,40 9 * * * /usr/bin/python3 /home/leaf/Documents/melProject/capCam1.py >> /home/leaf/Documents/melProject/log.txt
+
+1,11,21,31,41 9 * * * cd /home/leaf/Documents/melProject/yolov5 && /usr/bin/python3.6 Copy_detect3.py >> /home/leaf/Documents/melProject/yolo.txt
+
+3,13,23,33,43 9 * * * cd /home/leaf/Documents/melProject/upload && /usr/local/bin/node --experimental-modules 2.mjs >> /home/leaf/Documents/melProject/upload.txt
+
+6,16,26,36,46 9 * * * mv /home/leaf/Documents/melProject/Cam1/*.jpg /home/leaf/Documents/melProject/Cam1/used/
+
+7,17,27,37,47 9 * * * mv /home/leaf/Documents/melProject/upload/*.jpg /home/leaf/Documents/melProject/Cam1/uploaded/
+
+8,18,28,38,48 9 * * * rm -rf /home/leaf/Documents/melProject/upload/*.txt
+
+15 10 * * * sudo nvpmodel -m1
+
+
+
+30 10 * * * cd /home/leaf/Documents/melProject/yolov5 && /usr/bin/python3 Copy_detect3.py >> /home/leaf/Documents/melProject/log.txt
+
+
+
+
+
+1,11,21,31,41 9 * * * cd /home/leaf/Documents/melProject/yolov5 && /usr/bin/python3 Copy_detect3.py >> /home/leaf/Documents/melProject/log.txt
+
+1,11,21,31,41 9 * * * cd /home/leaf/Documents/melProject/yolov5 && /usr/bin/python3 Copy_detect3.py >> /home/leaf/Documents/melProject/yolo.txt
+
+
+
+
+
+3,13,23,33,43 9 * * * cd /home/leaf/Documents/melProject/upload && /usr/local/bin/node node --experimental-modules 2.mjs >> /home/leaf/Documents/melProject/upload.txt
+
+40 13 * * * cd /home/leaf/Documents/melProject/upload && /usr/local/bin/node --experimental-modules 2.mjs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,10,20,30,40 9 * * * /usr/bin/python3 /home/leaf/Documents/melProject/capCam1.py >> /home/leaf/Documents/melProject/Cam1/logC1/log.txt
+
+1,11,21,31,41 9 * * * /usr/bin/sh /home/leaf/Documents/melProject/yolo.sh >> /home/leaf/Documents/melProject/log.txt
+
+1,11,21,31,41 9 * * * /usr/bin/python3 /home/leaf/Documents/melProject/yolov5/Copy_detect3.py >> /home/leaf/Documents/melProject/log.txt
+
+
+3,13,23,33,43 9 * * * /usr/local/bin/node /home/leaf/Documents/melProject/upload/ node --experimental-modules 2.mjs >> /home/leaf/Documents/melProject/log.txt
+
+6,16,26,36,46 9 * * * mv /home/leaf/Documents/melProject/Cam1/*.jpg /home/leaf/Documents/melProject/Cam1/used/ >> /home/leaf/Documents/melProject/log.txt
+
+7,17,27,37,47 9 * * * rm -rf /home/leaf/Documents/melProject/upload/*.jpg >> /home/leaf/Documents/melProject/log.txt
+
+8,18,28,38,48 9 * * * rm -rf /home/leaf/Documents/melProject/upload/*.txt >> /home/leaf/Documents/melProject/log.txt
+
+
+
+
+40 13 * * * /usr/local/bin/node /home/leaf/Documents/melProject/upload/ node --experimental-modules 2.mjs >> /home/leaf/Documents/melProject/log.txt
+
+
+
+
+
+
+python3 /home/leaf/Documents/melProject/yolov5/Copy_detect3.py --line-thickness 7 --weights /home/leaf/Documents/melProject/yolov5/runs/train/exp/weights/best.pt --img 416 --conf 0.5 --source /home/leaf/Documents/melProject/yolov5/test/
+
+ >> /home/leaf/Documents/melProject/Cam1/logC1/log.txt
+
+1,11,21,31,41 9 * * * /usr/bin/python3 /home/leaf/Documents/melProject/capCam1.py >> /home/leaf/Documents/melProject/Cam1/logC1/log.txt

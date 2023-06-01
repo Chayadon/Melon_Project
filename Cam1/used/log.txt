@@ -1,0 +1,25 @@
+20220814_090002
+Capture Success
+20220814_091001
+Capture Success
+20220814_092002
+Capture Success
+20220814_093002
+Capture Success
+20220814_094002
+Capture Failed
+20220815_090002
+Capture Success
+20220815_091002
+Capture Success
+20220815_092002
+Capture Success
+20220815_093001
+Capture Success
+20220815_094002
+Capture Success
+20220816_090001
+Capture Success
+20220816_091002
+20220816_092002
+Capture Success
