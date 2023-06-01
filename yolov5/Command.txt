@@ -1,0 +1,5 @@
+python3 detect.py --line-thickness 7 --weights runs/train/exp/weights/best.pt --img 416 --conf 0.5 --source /home/leaf/Desktop/yolov5/test/
+
+python3 Copy_detect2.py --line-thickness 7 --weights runs/train/exp/weights/best.pt --img 416 --conf 0.5 --source /home/leaf/Desktop/yolov5/test/
+
+python3 Copy_detect3.py --line-thickness 7 --weights runs/train/exp/weights/best.pt --img 416 --conf 0.5 --source /home/leaf/Desktop/yolov5/test/
