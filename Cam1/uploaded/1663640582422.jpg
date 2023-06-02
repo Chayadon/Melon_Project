@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@google-cloud/storage": "^6.4.0",
-    "firebase": "^9.9.2",
-    "firebase-admin": "^11.0.1"
-  }
-}
